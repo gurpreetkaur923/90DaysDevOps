@@ -2,6 +2,9 @@ What Is DevOps?
 
 DevOps, as it’s name implies, combination of two parts- Development and Operations. In a simple manner, it’s a set of practices & tools that enhance the organizations ability to deliver products at high speed to their customers than traditional software development processes.Under the DevOps model, development and operational team work together within the entire software development life cycle(SDLC).
 
+![image](https://user-images.githubusercontent.com/91723005/225738099-65389dfa-8f73-45f9-9fa6-ff6a1ad0f311.png)
+
+
 Why DevOps is important?
 
 DevOps is the greatest strategy to resolve the friction between development and operational team.It acts as a single team to collaborate with the code building,deploying and testing environment.
