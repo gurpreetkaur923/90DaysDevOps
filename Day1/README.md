@@ -16,9 +16,15 @@ Here are few reasons why DevOps is needed:-
 3.Higher quality software: DevOps can assist in identifying and fixing faults and defects more quickly, leading to higher quality software, by utilising continuous integration and testing.
 4.More agility: Because DevOps helps firms to swiftly build and distribute changes to their software, they can react to shifting requirements and priorities with greater ease.
 
+![image](https://user-images.githubusercontent.com/91723005/225738295-66beb2ca-da15-4554-9744-2e63bd904d0c.png)
+
+
 What is Automation?
 
 DevOps automation is the use of technology to augment processes that enable feedback mechanisms among operations and development teams in order to accelerate the deployment of iterative changes to applications in production.
+
+![image](https://user-images.githubusercontent.com/91723005/225738390-cd0c6894-fed5-44ab-b0dd-553120b0ebcd.png)
+
 
 What is Scaling?
 
@@ -26,7 +32,12 @@ Developers or businesses can adopt the DevOps mindset and select the appropriate
 
 In simple words, scaling refers to the ability of the business to setup its systems to grow when demand increases and scale back when demand decreases.
 
+
 What is Infrastructure?
 
 It is also known as Infrastructure of code (IAC). IAC is a DevOps practice to continuous delivery.With IAC, DevOps teams can work together with a standardised set of procedures and tools to provide applications and the infrastructure that supports them quickly and consistently.
+
+
+![image](https://user-images.githubusercontent.com/91723005/225738528-d0630dce-e11e-4f5a-bf63-ad98b547d458.png)
+
 90DaysOfDevOps
