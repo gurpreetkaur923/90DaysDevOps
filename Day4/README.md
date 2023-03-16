@@ -19,13 +19,15 @@ As the name implies, it is a script or program that is used to perform specific 
     -Automated airline checking system
     -Automatic mailers
     
-    ![image](https://user-images.githubusercontent.com/91723005/225741466-dc0b2d3c-51ef-4e49-ae06-e2323a9b794a.png)
+   
+   
+   ![image](https://user-images.githubusercontent.com/91723005/225741466-dc0b2d3c-51ef-4e49-ae06-e2323a9b794a.png)
 
 
 Basically,we can see shell script started with (#!/bin/bash or #!/bin/sh) line.So,what this line called?Why we use this in our script?Let’s understand it step by step…..
 
-    (#!) is a combination of tokens in which (#)indicates sharp and (!) bang. It’s commonly known as “She-bang”.
-    /bin/bash vs /bin/sh : It indicates shell which is not only responsible for little prompts but also interpreting the commands of the script. (/bin/bash) is most common shell used in shell scripting. It’s also known as “Bourne-again shell”. Bash can be used both for scripting and as an interactive terminal or interpreter. You can relate to this similar to how python3 is a scripting language and how it is an interpreter (when you type in python3 in the terminal, you can see an interactive interpreter. Bash in interactive mode is the terminal or the command prompt.(/bin/sh) indicates a system shell and a default shell the script should use.
+ (#!) is a combination of tokens in which (#)indicates sharp and (!) bang. It’s commonly known as “She-bang”.
+  /bin/bash vs /bin/sh : It indicates shell which is not only responsible for little prompts but also interpreting the commands of the script. (/bin/bash) is most common shell used in shell scripting. It’s also known as “Bourne-again shell”. Bash can be used both for scripting and as an interactive terminal or interpreter. You can relate to this similar to how python3 is a scripting language and how it is an interpreter (when you type in python3 in the terminal, you can see an interactive interpreter. Bash in interactive mode is the terminal or the command prompt.(/bin/sh) indicates a system shell and a default shell the script should use.
     ![image](https://user-images.githubusercontent.com/91723005/225741727-57eb37d5-a7c4-46b2-8d73-b2b8cc0fa80f.png)
 
 
