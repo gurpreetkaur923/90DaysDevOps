@@ -5,6 +5,11 @@ Tasks
 
     Understanding File Permissions:
         Create a simple file and run ls -ltr to see the details of the files. Refer to Notes
+
+
+        ![Screenshot 2025-01-07 230127](https://github.com/user-attachments/assets/ced24bb6-d8f7-43ed-b751-07e90e66d6c4)
+
+
         Each of the three permissions are assigned to three defined categories of users. The categories are:
             Owner: The owner of the file or application.
                 Use chown to change the ownership permission of a file or directory.
