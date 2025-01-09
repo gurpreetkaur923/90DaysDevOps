@@ -4,7 +4,9 @@ The concept of Linux file permission and ownership is important in Linux. Today,
 Tasks
 
     Understanding File Permissions:
-        Create a simple file and run ls -ltr to see the details of the files. Refer to Notes
+        Create a simple file and run ls -ltr to see the details of the files.
+    ![Screenshot 2025-01-07 230127](https://github.com/user-attachments/assets/052dc7c3-8292-446d-9879-61be682f2dc4)
+
         Each of the three permissions are assigned to three defined categories of users. The categories are:
             Owner: The owner of the file or application.
                 Use chown to change the ownership permission of a file or directory.
