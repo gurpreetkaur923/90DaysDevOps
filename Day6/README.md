@@ -5,8 +5,9 @@ Tasks
 
     Understanding File Permissions:
         Create a simple file and run ls -ltr to see the details of the files
-        "C:\Users\ravin\Pictures\Screenshots\Screenshot 2025-01-07 230127.png"
+        
 
+https://github.com/user-attachments/assets/83549b47-bd79-43f8-b8aa-a67ca849d099
 
         Each of the three permissions are assigned to three defined categories of users. The categories are:
             Owner: The owner of the file or application.
